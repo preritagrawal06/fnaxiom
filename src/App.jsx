@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="w-full flex items-center justify-center h-screen">
+      <div className="w-full flex flex-col items-center justify-center h-[70vh]">
         <div className="w-full md:w-[30%] flex flex-col items-center text-slate-200">
           <p className="text-xl font-semibold">Welcome to</p>
           <p className="text-3xl font-bold">FNAXIOM</p>
